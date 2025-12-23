@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サウザンド・マイルズ",
+  "base_artist": "Vanessa Carlton",
+  "createdAt": "2025-12-23T17:19:43.310310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "has_synced": false,
+      "path": "select/pl_01_A_Thousand_Miles_Vanessa_Carlton.txt"
+    }
+  ]
+}
